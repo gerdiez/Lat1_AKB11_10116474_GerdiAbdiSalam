@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gerdi Abdi Salam</string>
+    <string name="mulaibtn">Mulai</string>
+    <string name="judul">Monitory Membantu Anda\nMengontrol HP Anak</string>
+    <string name="kode">Kode Keluarga</string>
+    <string name="ketkode">Ketikkan kode keluarga yang Ayah Bunda miliki disini</string>
+    <string name="ket2">Dengan menekan tombol masuk berarti Anda menyetujui Ketentuan Pengguna dan Kebijakan Data Kami</string>
+    <string name="Masukbtn">Masuk</string>
+    <string name="Beli">Beli Kode Keluarga Disini</string>
+    <string name="hintnama">Contoh : Budi</string>
+    <string name="nama">Nama Panggilan Kamu</string>
+    <string name="umur">Umur Kamu</string>
+    <string name="Nextbtn">Selanjutnya</string>
+    <string name="Okebtn">Oke</string>
+    <string name="beres">Beres! Sekarang kamu sudah bisa ngecek penggunaan HP mu setiap hari buat kamu ngatur waktu</string>
+</resources>
